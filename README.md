@@ -25,7 +25,7 @@ To get started with the Restaurant Chatbot project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/restaurant-chatbot.git
+    git clone https://github.com/syed-muqtasid-ali/restaurant-chatbot.git
     ```
 
 2. **Navigate to the project directory**:
